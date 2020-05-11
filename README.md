@@ -1,2 +1,2 @@
-# Componentes-Cota-o
+# Componentes-Cotação
 Repositório para componentes de cotação
